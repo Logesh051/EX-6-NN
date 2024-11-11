@@ -1,4 +1,4 @@
-<H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
+<H1 ALIGN =CENTER>EX 6 Heart attack prediction using MLP</H1>
 <H3>NAME: Logesh.N.A
 <H3>REGISTER NO.: 212223240078</H3>
 <H3>EX. NO.6</H3>
